@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+    font-size: medium;
+    font-style: normal;
+}
+header{
+    background-color: white;
+    color: rgb(255, 0, 212);
+}
+main{
+    padding: 70px;
+    text-align: center;
+}
+.metric{
+    background-color: white;
+    padding: 70px;
+    border-radius: 20%;
+}
+button{
+    background-color: lightcoral;
+    border-radius: 25px;
+    margin: auto;
+    padding: auto;
+}
